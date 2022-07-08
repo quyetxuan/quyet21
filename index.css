@@ -1,24 +1,8 @@
-.row1{
-    display: grid;
-    grid-template-columns: 20% 20% 20% 20% 20%;
-}
 header{
     background-color: gray;
     
 }
-header>div>div{
-    align-content: center;
-}
-aside{
-    margin-left: 5%;
-}
-aside>div>img{
-    margin-top: 20px;
-    margin-bottom: 20px;
-}
-footer{
-    background-color: black;
-}
+
 
 /*tablet*/
   @media screen and (min-width: 670px) {
