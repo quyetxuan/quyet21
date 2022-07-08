@@ -1,13 +1,22 @@
 header{
-    background-color: gray;
-    
+   background-color: gray;
+
+}
+footer{
+    margin-top: 30px;
+}
+footer>div>div>p{
+    margin-left: 20px;
+}
+footer>div>div>h3{
+    margin-left: 20px;
 }
 
 
 /*tablet*/
   @media screen and (min-width: 670px) {
     body {
-      background-color: paleturquoise;
+      background-color: navajowhite;
       color: white;
     }
  
