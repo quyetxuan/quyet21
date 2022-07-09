@@ -1,16 +1,7 @@
-header{
-   background-color: gray;
+body{
+    background-color: aliceblue;
+}
 
-}
-footer{
-    margin-top: 30px;
-}
-footer>div>div>p{
-    margin-left: 20px;
-}
-footer>div>div>h3{
-    margin-left: 20px;
-}
 
 
 /*tablet*/
