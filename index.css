@@ -1,20 +1,24 @@
 body{
-    background-color: aliceblue;
+    background-color: white;
 }
-
-
+body>h1{
+    margin-left: 20px;
+}
+body>p{
+    margin-left: 20px;
+}
 
 /*tablet*/
   @media screen and (min-width: 670px) {
     body {
-      background-color: navajowhite;
+      background-color: #b6adff;
       color: white;
     }
  
 /*desktop*/
 @media screen and (min-width: 1200px) {
     body {
-      background-color: mediumorchid;
+      background-color: #161414bd;
     }
   }
  }
