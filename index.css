@@ -1,10 +1,23 @@
+nav>div>div>div>img{
+  padding-top: 10px;
+  padding-right: 10px;
+  margin-left: 10px;
+  padding: auto;
+}
+
+
 
 /*tablet*/
 @media screen and (min-width: 670px) 
 {
     body {
-      background-color: navajowhite;
+      background-color: #5a5a59;
       color: white;
+
+    }
+    nav>div>div>div>img{
+      padding-top: 35px;
+      width: 99%;
     }
 }
  
@@ -12,6 +25,6 @@
 @media screen and (min-width: 1200px) 
 {
     body {
-      background-color: mediumorchid;
+      background-color: black;
     }
   }
